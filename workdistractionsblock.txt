@@ -1,0 +1,17 @@
+0.0.0.0 discordapp.com
+0.0.0.0 discord.gg
+0.0.0.0 discord.com
+0.0.0.0 gachaclubs.com
+0.0.0.0 imgur.com
+0.0.0.0 flickr.com
+0.0.0.0 archive.org
+0.0.0.0 chatroulette.com
+0.0.0.0 omegle.com
+0.0.0.0 gacha-club.com
+0.0.0.0 gacha2.com
+0.0.0.0 creativedestructionpc.com
+0.0.0.0 gachaclub.co
+0.0.0.0 now.gg
+0.0.0.0 tumblr.com
+0.0.0.0 roblox.com
+0.0.0.0 meebo.com
