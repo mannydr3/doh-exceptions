@@ -1,17 +1,34 @@
-0.0.0.0 discordapp.com
-0.0.0.0 discord.gg
-0.0.0.0 discord.com
+########################################
+#       gacha/roblox/"kid" games
+########################################
 0.0.0.0 gachaclubs.com
-0.0.0.0 imgur.com
-0.0.0.0 flickr.com
 0.0.0.0 archive.org
-0.0.0.0 chatroulette.com
-0.0.0.0 omegle.com
 0.0.0.0 gacha-club.com
 0.0.0.0 gacha2.com
 0.0.0.0 creativedestructionpc.com
 0.0.0.0 gachaclub.co
 0.0.0.0 now.gg
-0.0.0.0 tumblr.com
 0.0.0.0 roblox.com
 0.0.0.0 meebo.com
+########################################
+#            socials/mixed
+########################################
+0.0.0.0 twitter.com
+0.0.0.0 telegram.com
+0.0.0.0 instagram.com
+0.0.0.0 reddit.com
+0.0.0.0 facebook.com
+0.0.0.0 discordapp.com
+0.0.0.0 discord.gg
+0.0.0.0 discord.com
+########################################
+#            image hosting
+########################################
+0.0.0.0 imgur.com
+0.0.0.0 flickr.com
+0.0.0.0 tumblr.com
+########################################
+#                chat
+########################################
+0.0.0.0 chatroulette.com
+0.0.0.0 omegle.com
