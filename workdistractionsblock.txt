@@ -17,6 +17,7 @@
 0.0.0.0 telegram.co
 0.0.0.0 telegram.org
 0.0.0.0 telegram.dog
+0.0.0.0 tiktok.com
 0.0.0.0 instagram.com
 0.0.0.0 reddit.com
 0.0.0.0 facebook.com
@@ -34,3 +35,38 @@
 ########################################
 0.0.0.0 chatroulette.com
 0.0.0.0 omegle.com
+########################################
+#           nasty sites
+########################################
+0.0.0.0 8chan.co
+0.0.0.0 9gag.com
+0.0.0.0 ebaumsworld.com
+0.0.0.0 youjizz.com
+0.0.0.0 4chan.org
+0.0.0.0 82apps.com
+0.0.0.0 8tube.xxx
+0.0.0.0 8ch.ne
+########################################
+#         video sites
+########################################
+0.0.0.0 vid.gg
+0.0.0.0 vid.me
+0.0.0.0 video.tt
+0.0.0.0 videosift.com
+0.0.0.0 videoweed.es
+0.0.0.0 videowood.tv
+0.0.0.0 vidgg.to
+0.0.0.0 vidlox.tv
+0.0.0.0 vidto.me
+0.0.0.0 vidtodo.com
+0.0.0.0 vidup.me
+0.0.0.0 thevideo.me
+0.0.0.0 thevideobee.to
+0.0.0.0 thevideos.tv
+0.0.0.0 speedvid.net
+0.0.0.0 speedvideo.net
+0.0.0.0 novamov.com
+0.0.0.0 nowvideo.ch
+0.0.0.0 nowvideo.co
+0.0.0.0 nowvideo.sx
+0.0.0.0 nowvideo.to
