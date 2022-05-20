@@ -14,7 +14,9 @@
 #            socials/mixed
 ########################################
 0.0.0.0 twitter.com
-0.0.0.0 telegram.com
+0.0.0.0 telegram.co
+0.0.0.0 telegram.org
+0.0.0.0 telegram.dog
 0.0.0.0 instagram.com
 0.0.0.0 reddit.com
 0.0.0.0 facebook.com
