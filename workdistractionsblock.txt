@@ -1,0 +1,23 @@
+########################################
+#            socials/mixed
+########################################
+0.0.0.0 twitter.com
+0.0.0.0 telegram.co
+0.0.0.0 telegram.org
+0.0.0.0 telegram.dog
+0.0.0.0 tiktok.com
+0.0.0.0 instagram.com
+0.0.0.0 cdninstagram.com
+0.0.0.0 reddit.com
+0.0.0.0 redd.it
+0.0.0.0 facebook.com
+0.0.0.0 discordapp.com
+0.0.0.0 discord.gg
+0.0.0.0 discord.com
+########################################
+#            image hosting
+########################################
+0.0.0.0 imgur.com
+0.0.0.0 flickr.com
+0.0.0.0 tumblr.com
+0.0.0.0 twimg.com 
