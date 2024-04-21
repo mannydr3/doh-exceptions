@@ -14,4 +14,6 @@
 0.0.0.0 imgur.com
 0.0.0.0 flickr.com
 0.0.0.0 tumblr.com
+# Genshin Impact
+0.0.0.0 mihoyo.com
 
