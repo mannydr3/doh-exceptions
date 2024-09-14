@@ -28,3 +28,11 @@
 0.0.0.0 wisper.sh
 0.0.0.0 yikyak.com
 0.0.0.0 keek.com
+0.0.0.0 omegle.com
+0.0.0.0 chatroulette.com
+0.0.0.0 chatavenue.com
+0.0.0.0 chatstep.com
+0.0.0.0 chatrandom.com
+0.0.0.0 camzap.com
+0.0.0.0 tinychat.com
+0.0.0.0 tohla.com
