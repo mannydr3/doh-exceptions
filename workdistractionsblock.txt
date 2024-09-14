@@ -36,3 +36,7 @@
 0.0.0.0 camzap.com
 0.0.0.0 tinychat.com
 0.0.0.0 tohla.com
+0.0.0.0 privatephotovault.com
+0.0.0.0 getkeepsafe.com
+0.0.0.0 smsrobot.com
+0.0.0.0 kyms-app.com
