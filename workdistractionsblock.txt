@@ -16,4 +16,15 @@
 0.0.0.0 tumblr.com
 # Genshin Impact
 0.0.0.0 mihoyo.com
-
+########################################
+#            other sites
+########################################
+0.0.0.0 kik.com
+0.0.0.0 snapchat.com
+0.0.0.0 whatsapp.com
+0.0.0.0 tinder.com
+0.0.0.0 meetme.com
+0.0.0.0 ask.fm
+0.0.0.0 wisper.sh
+0.0.0.0 yikyak.com
+0.0.0.0 keek.com
